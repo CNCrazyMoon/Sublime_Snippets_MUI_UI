@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+<div class="mui-input-row">
+    <label>${2:Switch}</label>
+    <div class="mui-switch${1: mui-active}">
+        <div class="mui-switch-handle"></div>
+    </div>
+</div>$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mswitch</tabTrigger>
+<description>mSwitch(开关)</description>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

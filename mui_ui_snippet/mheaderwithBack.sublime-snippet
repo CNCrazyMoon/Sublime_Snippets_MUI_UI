@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+<header class="mui-bar mui-bar-nav">
+	<a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left"></a>
+	<h1 class="mui-title">${1:标题}</h1>
+</header>
+$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mheaderwithBack</tabTrigger>
+<description>mHeader(带返回箭头的标题栏)</description>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

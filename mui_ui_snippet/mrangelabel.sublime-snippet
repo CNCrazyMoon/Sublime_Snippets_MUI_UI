@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+<h5>label+滑块：<span id='inline-range-val'>${1:20}</span></h5>
+<div class="mui-input-row mui-input-range">
+    <label>${4:滑块：}</label>
+    <input type="range" id='inline-range' value="${1:20}" min="${2:0}" max="${3:100}" >
+</div>$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mrangelabel</tabTrigger>
+<description>mRange(Label+滑块)</description>
+
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

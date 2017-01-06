@@ -1,0 +1,28 @@
+<snippet>
+<content><![CDATA[
+<div class="mui-slider">
+    <div class="mui-slider-group">
+        <div class="mui-slider-item">
+            <a href="#">
+                <img src="$1">
+                <p class="mui-slider-title">${3:文字说明1}</p>
+            </a>
+        </div>
+        <div class="mui-slider-item">
+            <a href="#">
+                <img src="$2">
+                <p class="mui-slider-title">${4:文字说明2}</p>
+            </a>
+        </div>
+    </div>
+    <div class="mui-slider-indicator">
+    <div class="mui-indicator mui-active"></div>
+    <div class="mui-indicator"></div>
+</div>$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mgallery</tabTrigger>
+<description>mGallery图片轮播</description>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

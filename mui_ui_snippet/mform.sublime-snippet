@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+<form class="mui-input-group">
+	<div class="mui-input-row">
+		<label>${3:input}</label>
+		<input type="${1:text}" class="${2:mui-input-clear}" placeholder="${3:请输入}">
+	</div>
+</form>$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mform</tabTrigger>
+<description>mForm(表单)</description>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

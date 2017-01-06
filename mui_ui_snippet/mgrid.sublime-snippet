@@ -1,0 +1,50 @@
+<snippet>
+<content><![CDATA[
+<div class="mui-card">
+    <ul class="mui-table-view mui-grid-view mui-grid-9">
+        <li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3">
+            <a href="#">
+                <span class="mui-icon mui-icon-home"></span>
+                <div class="mui-media-body">${1:Home}</div>
+            </a>
+        </li>
+        <li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3">
+            <a href="#">
+                <span class="mui-icon mui-icon-email"><span class="mui-badge mui-badge-red">5</span></span>
+                <div class="mui-media-body">${2:Email}</div>
+            </a>
+        </li>
+        <li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3">
+            <a href="#">
+                <span class="mui-icon mui-icon-chatbubble"></span>
+                <div class="mui-media-body">${3:Chat}</div>
+            </a>
+        </li>
+        <li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3">
+            <a href="#">
+                <span class="mui-icon mui-icon-location"></span>
+                <div class="mui-media-body">${4:Location}</div>
+            </a>
+        </li>
+        <li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3">
+            <a href="#">
+                <span class="mui-icon mui-icon-search"></span>
+                <div class="mui-media-body">${5:Search}</div>
+            </a>
+        </li>
+        <li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3">
+            <a href="#">
+                <span class="mui-icon mui-icon-phone"></span>
+                <div class="mui-media-body">${6:Phone}</div>
+            </a>
+        </li>
+    </ul>
+</div>$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mgrid</tabTrigger>
+<description>mGrid(九宫格)</description>
+
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

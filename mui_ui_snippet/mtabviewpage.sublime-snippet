@@ -1,0 +1,30 @@
+<snippet>
+<content><![CDATA[
+<div class="mui-slider">
+    <div class="mui-slider-indicator mui-segmented-control mui-segmented-control-inverted">
+        <a class="mui-control-item" href="#item1">${1:选项卡1}</a>
+        <a class="mui-control-item" href="#item2">${2:选项卡2}</a>
+    </div>
+    <div id="sliderProgressBar" class="mui-slider-progress-bar mui-col-xs-4"></div>
+    <div class="mui-slider-group">
+        <div id="item1" class="mui-slider-item mui-control-content mui-active">
+            <ul class="mui-table-view">
+                <li class="mui-table-view-cell">${3:第1个选项卡子项}</li>
+                <li class="mui-table-view-cell">${4:第1个选项卡子项}</li>
+            </ul>
+        </div>
+        <div id="item2mobile" class="mui-slider-item mui-control-content">
+            <ul class="mui-table-view">
+                <li class="mui-table-view-cell">${5:第2个选项卡子项}</li>
+                <li class="mui-table-view-cell">${6:第2个选项卡子项}</li>
+            </ul>
+        </div>
+    </div>
+</div>$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mtabviewpage</tabTrigger>
+<description>mTabSegmented(可左右拖动的选项卡)</description>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

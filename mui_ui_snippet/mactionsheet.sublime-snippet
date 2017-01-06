@@ -1,0 +1,17 @@
+<snippet>
+<content><![CDATA[
+<div class="mui-popover mui-popover-action mui-popover-bottom">
+    <ul class="mui-table-view">
+        <li class="mui-table-view-cell"><a href="#">${1:Item1}</a></li>
+        <li class="mui-table-view-cell"><a href="#">${2:Item2}</a></li>
+        <li class="mui-table-view-cell"><a href="#">${3:Item3}</a></li>
+    </ul>
+</div>$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mactionsheet</tabTrigger>
+<description>mPopover(H5模式弹出菜单)</description>
+
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

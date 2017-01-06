@@ -1,0 +1,38 @@
+<snippet>
+<content><![CDATA[
+<ul class="mui-table-view">
+    <li class="mui-table-view-cell mui-media">
+        <a href="javascript:;">
+        <img class="mui-media-object mui-pull-right" src="$1">
+        <div class="mui-media-body">
+            ${4:幸福}
+            <p class="mui-ellipsis">${5:能和心爱的人一起睡觉，是件幸福的事情；可是，打呼噜怎么办？}</p>
+        </div>
+        </a>
+    </li>
+    <li class="mui-table-view-cell mui-media">
+        <a href="javascript:;">
+        <img class="mui-media-object mui-pull-right" src="$2">
+        <div class="mui-media-body">
+            ${6:木屋}
+            <p class="mui-ellipsis">${7:想要这样一间小木屋，夏天挫冰吃瓜，冬天围炉取暖.}</p>
+        </div>
+        </a>
+    </li>
+    <li class="mui-table-view-cell mui-media">
+        <a href="javascript:;">
+        <img class="mui-media-object mui-pull-right" src="$3">
+        <div class="mui-media-body">
+           ${8: CBD}
+            <p class="mui-ellipsis">${9:烤炉模式的城，到黄昏，如同打翻的调色盘一般.}</p>
+        </div>
+        </a>
+    </li>
+</ul>$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mlist_Media_right</tabTrigger>
+<description>mListMedia(图文列表图片居右)</description>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

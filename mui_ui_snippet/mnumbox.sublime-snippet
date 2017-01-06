@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+<div class="mui-numbox" data-numbox-step='${1:1}' data-numbox-min='${2:0}' data-numbox-max='${3:10}'>
+    <button class="mui-btn mui-numbox-btn-minus" type="button">-</button>
+    <input class="mui-numbox-input" type="number" />
+    <button class="mui-btn mui-numbox-btn-plus" type="button">+</button>
+</div>$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mnumbox</tabTrigger>
+<description>mnumbox(数字输入框)</description>
+
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

@@ -1,0 +1,29 @@
+<snippet>
+<content><![CDATA[
+<ul class="mui-table-view">
+    <li class="mui-table-view-cell mui-collapse">
+        <a class="mui-navigate-right" href="#">${1:面板1}</a>
+        <div class="mui-collapse-content">
+            <p>${2:面板1子内容}</p>
+        </div>
+    </li>
+    <li class="mui-table-view-cell mui-collapse">
+        <a class="mui-navigate-right" href="#">${3:面板}</a>
+        <div class="mui-collapse-content">
+            <p>${4:面板2子内容}</p>
+        </div>
+    </li>
+    <li class="mui-table-view-cell mui-collapse">
+        <a class="mui-navigate-right" href="#">${5:面板3}</a>
+        <div class="mui-collapse-content">
+            <p>${6:面板3子内容}</p>
+        </div>
+    </li>
+</ul>$0'
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>maccordion</tabTrigger>
+<description>maccordion(折叠面板)</description>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+<div class="mui-segmented-control">
+    <a class="mui-control-item mui-active" href="#item1">${1:选项卡1}</a>
+    <a class="mui-control-item" href="#item2">${1:选项卡2}</a>
+</div>$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+
+<tabTrigger>mtabsegmented</tabTrigger>
+<description>mTabSegmented(div选项卡)</description>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

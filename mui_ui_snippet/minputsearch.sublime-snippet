@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+	<div class="mui-input-row mui-search">
+	<input type="search" class="mui-input-clear" placeholder="$1">
+</div>
+$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>minputsearch</tabTrigger>
+<description>mText_Search(搜索框)</description>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

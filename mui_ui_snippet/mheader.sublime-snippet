@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+<header class="mui-bar mui-bar-nav">
+    <h1 class="mui-title">${1:标题}</h1>
+</header>
+$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mheader</tabTrigger>
+<description>mHeader(标题栏)</description>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

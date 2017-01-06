@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+<span class="mui-badge ${1:mui-btn-blue/mui-btn-green/mui-btn-yellow/mui-btn-red/mui-btn-purple/mui-btn-grey}">${2:1}</span>$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mbadge</tabTrigger>
+<description>mbadge(数字角标)</description>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

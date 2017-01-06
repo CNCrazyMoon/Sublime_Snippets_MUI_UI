@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+<div class="mui-input-row">
+	<label>${2:Input}</label>
+	<input type="text" class="mui-input-speech mui-input-clear" placeholder="${1:语音输入}">
+</div>
+$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>minputspeech</tabTrigger>
+<description>mText_Speech(语音输入)</description>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

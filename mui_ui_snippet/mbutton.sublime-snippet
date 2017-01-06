@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+<button type="button" class="mui-btn ${1:mui-btn-blue/mui-btn-green/mui-btn-yellow/mui-btn-red/mui-btn-purple/mui-btn-grey}">${2:按钮}</button>$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mbutton</tabTrigger>
+<description>mButton(按钮)</description>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

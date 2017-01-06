@@ -1,0 +1,24 @@
+<snippet>
+<content><![CDATA[
+<ul class="mui-table-view mui-grid-view">
+    <li class="mui-table-view-cell mui-media mui-col-xs-6">
+        <a href="#">
+            <img class="mui-media-object" src="http://placehold.it/400x300">
+            <div class="mui-media-body">${1:文字说明1}</div>
+        </a>
+    </li>
+    <li class="mui-table-view-cell mui-media mui-col-xs-6">
+        <a href="#">
+            <img class="mui-media-object" src="http://placehold.it/400x300">
+            <div class="mui-media-body">${2:文字说明2}</div>
+        </a>
+    </li>
+</ul>$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mgallerytable</tabTrigger>
+<description>mGallery-Table(图文表格)</description>
+
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

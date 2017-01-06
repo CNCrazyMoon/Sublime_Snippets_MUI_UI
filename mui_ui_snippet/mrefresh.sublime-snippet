@@ -1,0 +1,19 @@
+<snippet>
+<content><![CDATA[
+<!--下拉刷新容器-->
+<div id="refreshContainer" class="mui-content mui-scroll-wrapper">
+    <div class="mui-scroll">
+        <!--数据列表-->
+        <ul class="mui-table-view mui-table-view-chevron">
+        $0
+        </ul>
+    </div>
+</div>
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mrefresh</tabTrigger>
+<description>mrefreshContainer(刷新容器)</description>
+
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+<div class="mui-input-row mui-checkbox mui-left">
+<label>${1:checkbox左侧显示示例}</label>
+<input name="${3:checkbox1}" value="Item 1" type="checkbox" ${2:checked} >
+</div>
+$0
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>mcheckbox</tabTrigger>
+<description>mCheckbox(复选框居左)</description>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.html</scope> -->
+</snippet>
